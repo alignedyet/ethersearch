@@ -14,7 +14,7 @@ setuptools.setup(
     description='Self-hosted, ad-free, privacy-respecting metasearch engine',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/benbusby/whoogle-search',
+    url='https://github.com/alignedyet/ethersearch,
     entry_points={
         'console_scripts': [
             'whoogle-search=app.routes:run_app',
